@@ -31,6 +31,5 @@
   <a href="https://www.linkedin.com/in/guilherme-yago-valente-b18535265" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/{{jud-as}}/{{jud-as}}/blob/output/github-contribution-grid-snake.svg) https://blog.arnabghosh.me/add-github-dark-snake-animation-readme
   
 
