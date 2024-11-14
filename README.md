@@ -3,7 +3,6 @@
 - 💼 Trabalhando com C, Java e Python.
 - 📒 Atualmente aprendendo Desenvolvimento Web
 - 📫 Contato por email: guilhermeferreira082@gmail.com
-- 🪪 Pronomes: Ele/Dele
 
 
 <a href=https://github.com/anuraghazra/github-readme-stats>
