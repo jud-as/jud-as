@@ -1,8 +1,8 @@
 ## Do Androids Dream of Electric Sheep?
 
-- 💼 Trabalhando com C, Java, JS, PHP e Python.
-- 📒 Atualmente masterizando Desenvolvimento Web.
-- 👑 Desenvolvedor e criador da heylisten.com.br
+Trabalhando com C, Java, JS, PHP e Python. <br/>
+Atualmente masterizando Desenvolvimento Web. <br/>
+Desenvolvedor e criador da heylisten.com.br <br/>
 ### Peça ajuda!
 E-mail: guilhermeferreira082@gmail.com <br/>
 WhatsApp: (61)99524-6301 <br/>
