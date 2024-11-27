@@ -1,8 +1,13 @@
 ## Do Androids Dream of Electric Sheep?
 
-- 💼 Trabalhando com C, Java e Python.
-- 📒 Atualmente aprendendo Desenvolvimento Web
-- 📫 Contato por email: guilhermeferreira082@gmail.com
+- 💼 Trabalhando com C, Java, JS, PHP e Python.
+- 📒 Atualmente masterizando Desenvolvimento Web.
+- 👑 Desenvolvedor e criador da heylisten.com.br
+### Peça ajuda!
+E-mail: guilhermeferreira082@gmail.com <br/>
+WhatsApp: (61)99524-6301 <br/>
+Discord id: 258343106372435968
+
 
 
 <a href=https://github.com/anuraghazra/github-readme-stats>
