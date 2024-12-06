@@ -1,6 +1,6 @@
 ## Do Androids Dream of Electric Sheep?
 
-Trabalhando com C, Java, JS, PHP e Python. <br/>
+Trabalhando com C, Java, JS, PHP, Python, CSS, HTML, WordPress. <br/>
 Atualmente masterizando Desenvolvimento Web. <br/>
 Desenvolvedor e criador da heylisten.com.br <br/>
 ### Peça ajuda!
