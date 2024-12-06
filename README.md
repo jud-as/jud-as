@@ -4,7 +4,7 @@ Trabalhando com C, Java, JS, PHP e Python. <br/>
 Atualmente masterizando Desenvolvimento Web. <br/>
 Desenvolvedor e criador da heylisten.com.br <br/>
 ### Peça ajuda!
-E-mail: guilhermeferreira082@gmail.com <br/>
+E-mail: guilhermevalente.dev@gmail.com <br/>
 WhatsApp: (61)99524-6301 <br/>
 Discord id: 258343106372435968
 
