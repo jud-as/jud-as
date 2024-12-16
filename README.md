@@ -1,6 +1,6 @@
 ## Do Androids Dream of Electric Sheep?
 
-Trabalhando com C, Java, JS, Python, CSS, HTML. <br/>
+Trabalhando com C, Java, Python, JS, CSS, HTML. <br/>
 Atualmente masterizando REST API com Sping Boot e Angular. <br/>
 Desenvolvedor e criador da heylisten.com.br <br/>
 ### Peça ajuda!
@@ -23,7 +23,6 @@ Discord id: 258343106372435968
   <img align="center" alt="jud-as-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="jud-as-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jud-as-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="jud-as-Wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
   <img align="center" alt="jud-as-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="jud-as-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="jud-as-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
