@@ -1,7 +1,7 @@
 ## Do Androids Dream of Electric Sheep?
 
-Trabalhando com C, Java, JS, PHP, Python, CSS, HTML, WordPress. <br/>
-Atualmente masterizando Desenvolvimento Web. <br/>
+Trabalhando com C, Java, JS, Python, CSS, HTML. <br/>
+Atualmente masterizando REST API com Sping Boot e Angular. <br/>
 Desenvolvedor e criador da heylisten.com.br <br/>
 ### Peça ajuda!
 E-mail: guilhermevalente.dev@gmail.com <br/>
