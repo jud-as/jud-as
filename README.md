@@ -2,7 +2,7 @@
 
 Trabalhando com C, Java, Python, JS, CSS, HTML. <br/>
 Atualmente aprofundando em REST API com Spring Boot e Angular. <br/>
-Desenvolvedor e criador da heylisten.com.br <br/>
+
 ### Peça ajuda!
 E-mail: guilhermevalente.dev@gmail.com <br/>
 WhatsApp: (61)99524-6301 <br/>
