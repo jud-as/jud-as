@@ -1,7 +1,9 @@
 ## Do Androids Dream of Electric Sheep?
 
-Trabalhando com C, Java, Python, JS, CSS, HTML. <br/>
-Atualmente aprofundando em REST API com Spring Boot e Angular. <br/>
+Java, Javascript, Python e C. <br/>
+Banco de Dados SQL e NoSQL <br/>
+Atualmente masterizando a Stack Springboot + Angular. <br/>
+Desenvolvedor FullStack na actdigital.com <br/>
 
 ### Peça ajuda!
 E-mail: guilhermevalente.dev@gmail.com <br/>
