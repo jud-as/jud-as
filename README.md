@@ -3,7 +3,7 @@
 Java, Javascript, Python e C. <br/>
 Banco de Dados SQL e NoSQL <br/>
 Atualmente masterizando a Stack Springboot + Angular. <br/>
-Desenvolvedor FullStack na [www.actdigital.com](https://actdigital.com/pt) <br/>
+Desenvolvedor FullStack na [www.sicoob.com.br](https://www.sicoob.com.br) <br/>
 
 ### Peça ajuda!
 E-mail: guilhermevalente.dev@gmail.com <br/>
