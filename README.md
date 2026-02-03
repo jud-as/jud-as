@@ -1,6 +1,6 @@
 ## Do Androids Dream of Electric Sheep?
 
-Java, Javascript, Python e C. <br/>
+Java, Javascript, e C. <br/>
 Banco de Dados SQL e NoSQL <br/>
 Atualmente masterizando a Stack Springboot + Angular. <br/>
 Desenvolvedor Júnior FullStack na [www.sicoob.com.br](https://www.sicoob.com.br) <br/>
