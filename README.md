@@ -19,18 +19,6 @@ Discord id: 258343106372435968
   <img height=130 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jud-as&layout=compact&langs_count=8&card_width=320&theme=shades-of-purple" />
 </a>
 
-
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="jud-as-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="jud-as-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="jud-as-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="jud-as-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="jud-as-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="jud-as-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
-
-
 ##
 
 <div> 
